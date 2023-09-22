@@ -1,5 +1,5 @@
 # Taller1FA
-Taller 1 Fundamentos de analitica
+Taller 1 Fundamentos de analítica
 
 En este repositorio se encuentran los siguientes archivos:
 - Base de datos
